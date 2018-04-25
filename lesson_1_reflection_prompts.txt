@@ -1,0 +1,59 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    Well, help to use correctly the Diff in MAC
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    Well I think taking a look of the previous version
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    Well, you see you daily work
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    I think it's easier for programmer
+
+How can you use the commands git log and git diff to view the history of files?
+
+    Well I do not know actually
+
+How might using version control make you more confident to make changes that
+could break something?
+
+     Because I can roll back and the see the changes
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    To upload my projects from School
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+    I think because you can see and check your log history and who made changes
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+    Git it is logical, I think for programming is better than editing something else.
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+    Because the files are not related
+
+How can you use the commands git log and git diff to view the history of files?
+
+    git log to check the commits logs and the IDs for check the DIFF
+
+How might using version control make you more confident to make changes that could break something?
+
+    It's like when you have an insurance or something like that
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    programming and projects
+
+Adam es un idioton y estupidon
